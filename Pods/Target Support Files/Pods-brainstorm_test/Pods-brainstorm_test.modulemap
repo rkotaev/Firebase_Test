@@ -1,0 +1,6 @@
+framework module Pods_brainstorm_test {
+  umbrella header "Pods-brainstorm_test-umbrella.h"
+
+  export *
+  module * { export * }
+}
